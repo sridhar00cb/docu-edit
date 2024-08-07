@@ -18,15 +18,7 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
 ## Generate a new site
-![Screenshot from 2024-02-19 11-49-25.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723031209684_Screenshot%20from%202024-02-19%2011-49-25.png)
-
-* 
-> 
-
-
-
-![Screenshot from 2024-03-13 15-51-27.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723031211028_Screenshot%20from%202024-03-13%2015-51-27.png)
-
+![Screenshot from 2024-05-03 19-21-35.png](./static/img/Screenshot from 2024-05-03 19-21-35.png)
 Generate a new Docusaurus site using the **classic template**.
 
 The classic template will automatically be added to your project after you run the command:
