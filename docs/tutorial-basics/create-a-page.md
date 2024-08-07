@@ -2,42 +2,45 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# PAN
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## PAN Already Exists
 
-## Create your first React Page
+- If the entered **PAN** is already exists for another client, error message will throw as follows:
 
-Create a file at `src/pages/my-react-page.js`:
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+![panerrormsg.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035114670_panerrormsg.png)
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+Approve application which moved to ***Under Review*** due to **PAN** validation with the message as follow:
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+![panunderreview.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035113432_panunderreview.png)
 
-## Create your first Markdown Page
+### To Remove the existing PAN & Approve the application from Under Review:
 
-Create a file at `src/pages/my-markdown-page.md`:
+#### 1. Remove the already exist PAN from another client:
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+> a. Login into Loan Management System with the valid credentials:
 
-This is a Markdown page
-```
+![loginScreen.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035121287_loginScreen.png)
+> b. Select the Clients from Clients dropdown
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Reason***: Client would have registered with two different mobile number and the entered PAN would be associated with another mobile number.
+
+![applicationDropdown.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035117135_applicationDropdown.png)
+
+> c. Select the clients from Clients dropdown and search the and enter the Client Name:
+
+![clientslist.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035118557_clientslist.png)
+
+> d. Select the old client based on the client ID under the column name ***Client #*** and click on ***Identities*** tab
+
+![panidentites.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035120059_panidentites.png)
+> e. Click on ***X*** button to remove the existing pan
+
+
+#### 2. Approve the application from Under Review:
+
+> a. Select the applications from Clients dropdown and check the list of applications with their current status
+
+![applicationDropdown.png](blob:http://localhost:3000/f708d0c9-c202-498b-a23c-9ce3bb6bc313)
