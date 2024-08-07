@@ -17,7 +17,7 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Generate a new site for cloud bankin
 
 ![Screenshot from 2023-11-30 15-16-12.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723032124637_Screenshot%20from%202023-11-30%2015-16-12.png)
 
