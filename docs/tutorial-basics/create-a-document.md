@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Create a Document for cloud bank in
 
 Documents are **groups of pages** connected through:
 
