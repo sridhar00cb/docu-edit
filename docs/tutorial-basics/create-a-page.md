@@ -39,8 +39,3 @@ Approve application which moved to ***Under Review*** due to **PAN** validation 
 > e. Click on ***X*** button to remove the existing pan
 
 
-#### 2. Approve the application from Under Review:
-
-> a. Select the applications from Clients dropdown and check the list of applications with their current status
-
-![applicationDropdown.png](blob:http://localhost:3000/f708d0c9-c202-498b-a23c-9ce3bb6bc313)
