@@ -36,6 +36,6 @@ Approve application which moved to ***Under Review*** due to **PAN** validation 
 > d. Select the old client based on the client ID under the column name ***Client #*** and click on ***Identities*** tab
 
 ![panidentites.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035120059_panidentites.png)
-> e. Click on ***X*** button to remove the existing pan
+
 
 
