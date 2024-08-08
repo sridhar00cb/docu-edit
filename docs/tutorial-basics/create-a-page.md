@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # PAN
 
-
 ## PAN Already Exists
 
 - If the entered **PAN** is already exists for another client, error message will throw as follows:
@@ -18,7 +17,7 @@ Approve application which moved to ***Under Review*** due to **PAN** validation 
 
 ### To Remove the existing PAN & Approve the application from Under Review:
 
-#### 1. Remove the already exist PAN from another client:
+#### *1. Remove the already exist PAN from another client:*
 
 > a. Login into Loan Management System with the valid credentials:
 
