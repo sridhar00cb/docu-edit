@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # PAN
 
-## PAN Already Exists
+## PAN Already Exists 
 
 - If the entered **PAN** is already exists for another client, error message will throw as follows:
 
@@ -35,6 +35,5 @@ Approve application which moved to ***Under Review*** due to **PAN** validation 
 > d. Select the old client based on the client ID under the column name ***Client #*** and click on ***Identities*** tab
 
 ![panidentites.png](https://raw.githubusercontent.com/sridhar00cb/docu-edit/docusaurus-editor/static/img/1723035120059_panidentites.png)
-
 
 
